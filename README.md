@@ -1,1 +1,1 @@
-**Website for Mind-Shell game**
+*Website for Mind-Shell game*
